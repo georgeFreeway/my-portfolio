@@ -15,13 +15,13 @@ const About = () => {
                 </div>
 
                 <p className="text-lg text-gray-500">
-                    I am a dedicated Full Stack Engineer with a profound understanding of JavaScript, Node.js, TypeScript, and a specialization in integrating blockchain technology. Over the years, I've passionately immersed myself in the dynamic realm of software development, focusing on crafting innovative solutions at the intersection of blockchain and web technologies.
+                    I am a dedicated Full Stack Engineer with a profound understanding of JavaScript, Node.js, TypeScript, and a specialization in integrating blockchain technology. Over the years, I&apos;ve passionately immersed myself in the dynamic realm of software development, focusing on crafting innovative solutions at the intersection of blockchain and web technologies.
                 </p>
 
                 <br />
 
                 <p className="text-lg text-gray-500">
-                    My journey commenced with a solid foundation in computer science, which laid the groundwork for my expertise in full stack development. I have honed my skills in JavaScript, Node.js, and TypeScript, leveraging them to architect robust and scalable applications. Moreover, my deep dive into blockchain technology has equipped me to design decentralized solutions, implementing smart contracts and exploring the potential of distributed ledger systems.
+                    My journey commenced with a solid understanding of programming principles, which laid the groundwork for my expertise in full stack development. I have honed my skills in JavaScript, Node.js, and TypeScript, leveraging them to architect robust and scalable applications. Moreover, my deep dive into blockchain technology has equipped me to design decentralized solutions, implementing smart contracts and exploring the potential of distributed ledger systems.
                 </p>
 
                 <br />

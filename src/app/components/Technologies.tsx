@@ -81,7 +81,7 @@ const Technologies = () => {
                     {education.map((items) => (
                         <div key={items.id} className="shadow-md shadow-gray-600 rounded-lg p-4 hover:scale-105 duration-500">
                             <div className="">
-                                <img src={items.path}/>
+                                <img alt='tech-logos' src={items.path}/>
                             </div>
                         </div>
                     ))}
