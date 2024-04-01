@@ -15,7 +15,7 @@ const Navbar = () => {
     return (
         <nav className="flex justify-between items-center w-full h-20 text-white px-4 bg-gray-900">
             <div>
-                <h1 className="text-3xl font-signature ml-2">George Okafor</h1>
+                <h1 className="text-3xl font-signature ml-2">GΞORGΞ OKAFOR</h1>
             </div>
 
             <ul className="hidden md:flex">
