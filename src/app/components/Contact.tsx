@@ -14,11 +14,11 @@ const Contact = () => {
                     <p className="text-4xl font-bold inline border-b-4 border-gray-500">
                         Contact
                     </p>
-                    <p className="py-6 text-gray-500">Let us get in touch</p>
+                    <p className="py-6 text-gray-500">Let us get in touch 🙂. You can download my Resume by clicking the last icon on the left hand side.</p>
 
                     <Link href={'https://wa.me/+2348165916785'} target='_blank' className="text-white bg-gradient-to-b from-green-400 to-green-600 px-6 py-3 flex items-center w-52 rounded-md hover:scale-110 duration-300 gap-4">
                         <FaWhatsapp size={30} />
-                        Get In Touch
+                        Message Me
                     </Link>
 
                 </div>
@@ -27,4 +27,4 @@ const Contact = () => {
     )
 }
 
-export default Contact
+export default Contact;

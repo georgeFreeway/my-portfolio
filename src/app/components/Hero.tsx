@@ -1,7 +1,7 @@
 'use client'
 import React from 'react'
 import { MdOutlineKeyboardArrowRight } from 'react-icons/md'
-import {Link} from 'react-scroll';
+import { Link } from 'react-scroll';
 
 const Hero = () => {
     return (
@@ -13,10 +13,10 @@ const Hero = () => {
             <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
                 <div className="flex flex-col justify-center h-full">
                     <h2 className="text-4xl sm:text-7xl font-bold text-black ">
-                        Fullstack Software <br/> Developer
+                        Software Developer
                     </h2>
                     <p className="text-gray-500 py-4 max-w-md">
-                        I am a passionate and detail-oriented professional seeking a challenging position in the field of Fullstack Software Development. Leveraging my strong technical skills, experience with JavaScript, Typescript, and a proven track record in building production-ready web and mobile applications, I am dedicated to pushing the boundaries of innovation in Fullstack Software Development.
+                        I am a passionate and detail-oriented professional seeking a challenging position in the field of Software Development. Leveraging my strong technical skills, experience with JavaScript (Typescript), Java, and a proven track record in building production-ready applications, I am dedicated to pushing the boundaries of innovation in Software Development.
                     </p>
 
                     <div className="mb-5">
@@ -46,4 +46,4 @@ const Hero = () => {
     )
 }
 
-export default Hero
+export default Hero;

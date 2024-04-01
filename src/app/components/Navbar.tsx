@@ -13,7 +13,7 @@ const Navbar = () => {
         { id: 5, link: 'contact', href: '#contact' },
     ]
     return (
-        <nav className="flex justify-between items-center w-full h-20 text-white px-4 fixed bg-gray-900">
+        <nav className="flex justify-between items-center w-full h-20 text-white px-4 bg-gray-900">
             <div>
                 <h1 className="text-3xl font-signature ml-2">George Okafor</h1>
             </div>
