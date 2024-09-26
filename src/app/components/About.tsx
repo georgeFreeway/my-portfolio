@@ -15,19 +15,19 @@ const About = () => {
                 </div>
 
                 <p className="text-lg text-gray-500">
-                    I am a dedicated Software Developer with a profound understanding of JavaScript (TypeScript), Java, and a specialization in integrating Blockchain Technology. Over the years, I&apos;ve passionately immersed myself in the dynamic realm of Software Development, focusing on crafting innovative solutions at the intersection of Blockchain and Web Technologies.
+                    I am a passionate and detail-oriented professional seeking a challenging position in Software Development. Leveraging my strong technical skills in Go and Node.js, along with extensive experience in microservices architecture, I am dedicated to pushing the boundaries of innovation in this field. I specialize in building production-ready applications, focusing on seamless communication between services.
                 </p>
 
                 <br />
 
                 <p className="text-lg text-gray-500">
-                    My journey commenced with a solid understanding of Programming principles, which laid the groundwork for my expertise in Software Development. I have honed my skills in JavaScript (TypeScript), Java, leveraging them to architect robust and scalable applications. Moreover, my deep dive into Blockchain Technology has equipped me to design decentralized solutions, implementing Smart Contracts and exploring the potential of Distributed Ledger Systems.
+                    My journey in software development began with a solid understanding of programming principles, which laid the foundation for my expertise in Go and Node.js. I have honed my skills in designing and implementing robust and scalable microservices, embracing containerization with Docker.
                 </p>
 
                 <br />
 
                 <p className='text-lg text-gray-500'>
-                    Beyond technical proficiency, my forte lies in analytical thinking and problem-solving abilities, enabling me to tackle intricate challenges inherent in Software Development. I excel in communicating complex technical concepts effectively, bridging the gap between technical and non-technical stakeholders. My commitment to staying updated with the latest trends drives me to continually explore and adopt new tools and methodologies, ensuring that I remain at the forefront of innovation in Software Development and Blockchain Integration.
+                    Beyond my technical proficiency, I excel in analytical thinking and problem-solving, enabling me to tackle complex challenges inherent in software development. I communicate complex technical concepts effectively, bridging the gap between technical and non-technical stakeholders. My commitment to staying updated with the latest trends drives me to continually explore and adopt new tools and methodologies, ensuring that I remain at the forefront of innovation in Software Development and Microservices Architecture.
                 </p>
             </div>
 

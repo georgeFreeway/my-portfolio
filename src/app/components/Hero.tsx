@@ -16,7 +16,7 @@ const Hero = () => {
                         Software Developer
                     </h2>
                     <p className="text-gray-500 py-4 max-w-md">
-                        I am a passionate and detail-oriented professional seeking a challenging position in the field of Software Development. Leveraging my strong technical skills, experience with JavaScript (Typescript), Java, and a proven track record in building production-ready applications, I am dedicated to pushing the boundaries of innovation in Software Development.
+                        I am a passionate and detail-oriented professional seeking a challenging position in Software Development. With strong technical skills in Go and Node.js, I am dedicated to driving innovation in microservices architecture and modern development practices.
                     </p>
 
                     <div className="mb-5">
@@ -36,7 +36,7 @@ const Hero = () => {
 
                 <div>
                     <img
-                        src='https://res.cloudinary.com/ds1ll9kkv/image/upload/v1700302891/PHOTO-2023-11-18-10-45-52_hft3de.jpg'
+                        src='https://res.cloudinary.com/ds1ll9kkv/image/upload/v1727345527/IMG_0075_nhto7v.jpg'
                         alt="george"
                         className="rounded-2xl mx-auto w2/3 md:w-96"
                     />

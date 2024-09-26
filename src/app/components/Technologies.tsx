@@ -19,8 +19,8 @@ const Technologies = () => {
             id: 2,
             category: "Backend",
             items: [
-                { name: "Java", path: '/java.png' },
-                { name: "Spring Boot", path: '/spring.png' },
+                { name: "Golang", path: '/go.png' },
+                { name: "Amqp", path: '/amqp.png' },
                 { name: "Express.js", path: '/Expressjs.svg' },
                 { name: "MongoDB", path: '/mongo.webp' },
                 { name: "MySQL", path: '/mysql.png' },
